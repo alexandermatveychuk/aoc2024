@@ -1,3 +1,3 @@
 fun nativeEntryPoint(args: Array<String>) {
-    day02(args)
+    Day01.main()
 }
